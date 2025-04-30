@@ -1,4 +1,35 @@
 {
-    "bookings": []
-  }
-  
+  "users": [
+    {
+      "id": "5074",
+      "username": "sandamina",
+      "password": "1234"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "51d6",
+      "customer_name": "greger",
+      "address": "gregre",
+      "date_time": "2025-04-30T15:59:00.000Z",
+      "service_type": "Carpet Cleaning",
+      "username": "sandam"
+    },
+    {
+      "id": "17d6",
+      "customer_name": "asds",
+      "address": "dsafs",
+      "date_time": "2025-04-27T14:09:00.000Z",
+      "service_type": "Deep Cleaning",
+      "username": "098"
+    },
+    {
+      "id": "73e9",
+      "customer_name": "ew",
+      "address": "5",
+      "date_time": "2025-04-11T14:21:00.000Z",
+      "service_type": "Carpet Cleaning",
+      "username": "sandamina"
+    }
+  ]
+}
