@@ -3,7 +3,19 @@
     {
       "id": "5074",
       "username": "sandamina",
-      "password": "1234"
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": 999,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "nalin",
+      "password": "1234",
+      "id": "cf51"
     }
   ],
   "bookings": [
@@ -30,6 +42,30 @@
       "date_time": "2025-04-11T14:21:00.000Z",
       "service_type": "Carpet Cleaning",
       "username": "sandamina"
+    },
+    {
+      "id": "892c",
+      "customer_name": "sandam",
+      "address": "wefgweg",
+      "date_time": "2025-04-25T16:33:00.000Z",
+      "service_type": "Window Cleaning",
+      "username": "sandamina"
+    },
+    {
+      "id": "1ce8",
+      "customer_name": "thtr",
+      "address": "eyery",
+      "date_time": "2025-04-20T15:34:00.000Z",
+      "service_type": "Carpet Cleaning",
+      "username": "sandamina"
+    },
+    {
+      "id": "79a4",
+      "customer_name": "nalin1",
+      "address": "dfgreghre",
+      "date_time": "2025-04-19T17:59:00.000Z",
+      "service_type": "Carpet Cleaning",
+      "username": "nalin"
     }
   ]
 }
