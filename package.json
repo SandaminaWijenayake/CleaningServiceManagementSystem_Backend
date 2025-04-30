@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "json-server --watch db.json --port 10000"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
