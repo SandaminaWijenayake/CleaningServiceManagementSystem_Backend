@@ -7,7 +7,7 @@
       "role": "user"
     },
     {
-      "id": 999,
+      "id": "999",
       "username": "admin",
       "password": "admin123",
       "role": "admin"
@@ -36,14 +36,6 @@
       "username": "098"
     },
     {
-      "id": "73e9",
-      "customer_name": "ew",
-      "address": "5",
-      "date_time": "2025-04-11T14:21:00.000Z",
-      "service_type": "Carpet Cleaning",
-      "username": "sandamina"
-    },
-    {
       "id": "892c",
       "customer_name": "sandam",
       "address": "wefgweg",
@@ -66,6 +58,14 @@
       "date_time": "2025-04-19T17:59:00.000Z",
       "service_type": "Carpet Cleaning",
       "username": "nalin"
+    },
+    {
+      "id": "b045",
+      "customer_name": "sfe",
+      "address": "sgds",
+      "date_time": "2025-05-18T01:25:00.000Z",
+      "service_type": "Window Cleaning",
+      "username": "sandamina"
     }
   ]
 }
