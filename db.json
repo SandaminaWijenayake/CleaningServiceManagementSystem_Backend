@@ -1,10 +1,9 @@
 {
   "users": [
     {
-      "id": "5074",
       "username": "sandamina",
       "password": "1234",
-      "role": "user"
+      "id": "5074"
     },
     {
       "id": "999",
@@ -36,35 +35,19 @@
       "username": "098"
     },
     {
-      "id": "892c",
-      "customer_name": "sandam",
-      "address": "wefgweg",
-      "date_time": "2025-04-25T16:33:00.000Z",
-      "service_type": "Window Cleaning",
-      "username": "sandamina"
-    },
-    {
-      "id": "1ce8",
-      "customer_name": "thtr",
-      "address": "eyery",
-      "date_time": "2025-04-20T15:34:00.000Z",
-      "service_type": "Carpet Cleaning",
-      "username": "sandamina"
-    },
-    {
       "id": "79a4",
-      "customer_name": "nalin1",
+      "customer_name": "nalin",
       "address": "dfgreghre",
       "date_time": "2025-04-19T17:59:00.000Z",
       "service_type": "Carpet Cleaning",
       "username": "nalin"
     },
     {
-      "id": "b045",
-      "customer_name": "sfe",
-      "address": "sgds",
-      "date_time": "2025-05-18T01:25:00.000Z",
-      "service_type": "Window Cleaning",
+      "id": "cb28",
+      "customer_name": "thtr",
+      "address": "gregre",
+      "date_time": "2025-05-20T20:38:00.000Z",
+      "service_type": "Deep Cleaning",
       "username": "sandamina"
     }
   ]
